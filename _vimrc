@@ -236,4 +236,3 @@ imap ( ()<LEFT>
 
 " filetypeの自動検出(最後の方に書いた方がいいらしい)
 filetype on
-autocmd FileType html inoremap <silent> <buffer> </ </<C-x><C-o>
