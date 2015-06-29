@@ -175,4 +175,8 @@ setopt nolistbeep
 
 
 export PATH="$HOME/.rbenv/bin:$PATH"
+export PATH="/usr/local/bin :$PATH"
 eval "$(rbenv init -)"
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"

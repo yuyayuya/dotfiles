@@ -28,6 +28,8 @@ NeoBundle 'Shougo/neomru.vim'
 NeoBundle 'scrooloose/nerdtree'
 " Gitを便利に使う
 NeoBundle 'tpope/vim-fugitive'
+" Coffee Script
+NeoBundle 'kchmck/vim-coffee-script'
 
 " Rails向けのコマンドを提供する
 NeoBundle 'tpope/vim-rails'
